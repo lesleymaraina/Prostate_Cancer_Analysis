@@ -23,7 +23,7 @@ sh process_CNV_df_pt1.sh
 sh process_CNV_df_pt2.sh
 ```
 ### Data Analysis [./data_analysis/]
-Use Bayesian logistic regression model to estimate CNVs associated with case control output in men of African and European ancestry independently
+Use Bayesian logistic regression model to estimate CNVs associated with case-control status in men of African and European ancestry
 
 ```
 sh run_bayes_model.sh
