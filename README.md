@@ -1,6 +1,6 @@
 # Prostate Cancer (PCa) Analysis in an Ancestrally Diverse Cohort
 
-The following repository lists code to evaluate germline copy number variants (CNVs) associated with prostate cancer risk in men of African and European ancestry using the NIH All of Us Cohort. 
+The following repository lists code to evaluate germline copy number variants (CNVs) associated with prostate cancer risk in men of African and European ancestry using the NIH *All of Us* Cohort. 
 
 
 ## Overview
