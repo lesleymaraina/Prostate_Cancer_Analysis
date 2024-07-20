@@ -13,8 +13,9 @@ sh download_cnv_vcf.sh
 ```
 
 Scripts to add gene names and case control labels.
+
 Suggested preliminary step(s):
-- Get gene names by using annotSV to annotate chromosome, start and end positions
+- Use [AnnotSV](https://pages.github.com/) to list gene names based on: chromosome, start and end positions
 - Generate list of cases and controls using your pre-selected group
 
 ```
